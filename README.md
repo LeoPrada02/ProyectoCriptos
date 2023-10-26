@@ -1,4 +1,5 @@
 # Proyecto Analisis Criptomonedas
+![Alt text](https://estaticos-cdn.elperiodico.com/clip/74c03414-1ed9-4703-a287-2f521a2b7177_alta-libre-aspect-ratio_default_0.jpg)
 
 Este es nuestro 2 proyecto individual de henry, en el cual tenemos la tarea de analizar el mercado de criptomonedas para un grupo de inversionistas interesados en el mismo, con los datos de coingecko y binance haremos el analisis
 
